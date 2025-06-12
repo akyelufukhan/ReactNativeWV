@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Cunda Mezze",
+    "slug": "cunda-mezze",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cundamezze.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.cundamezze.app",
+      "versionCode": 1,
+      "permissions": [],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "16149654-9c0b-49d4-8cf9-6ff2da90e342"
+      }
+    }
+  }
+}
